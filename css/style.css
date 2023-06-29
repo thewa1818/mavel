@@ -19,3 +19,8 @@ h1 {
 .day{
  text-align: center;
 }
+
+ul {
+  width: 100%;
+  text-align: center;
+}
